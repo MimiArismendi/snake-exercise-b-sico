@@ -1,0 +1,34 @@
+
+body{
+  background: #1FD7CC;
+}
+header{
+  text-align: center;
+  font-family: Comic;
+  color: #C63580;
+  background: #E888B9;
+  padding: 1px;
+  margin: 10px;
+}
+#serpiente {
+  width:20px;
+  height:20px;
+  background:grey;
+  position: absolute;
+}
+#tabla {
+  background:#DAF7A6;
+  margin: 0 auto;
+  width:500px;
+  height:500px;
+}
+
+button{
+  margin-left: 45%;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  background: #DF4E83;
+  border: 0px;
+  color: white;
+  height: 25px;
+}
